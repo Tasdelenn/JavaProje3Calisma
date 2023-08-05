@@ -179,9 +179,9 @@ public class BankSimulation {
             System.out.println("Geçersiz seçim! Yeni hesap açma işlemi iptal edildi.");
 
     }
-    ///////////////////////////////////////////////////////////////////////////////////////////
 
 
+    //yorum git
     // PARA EKLE ( deposit() ) METODU  ///////////////////////////////////////////////////////
     public void depositToAccount(Customer customer) {
         System.out.println("\n----- PARA YATIR -----");
