@@ -1,13 +1,17 @@
 # JavaPro3_BankingProject
 Java Core temelli basit bi banka uygulaması
 
+```md
 BankingSystem
- ── src ├
- │ ── Customer.java ├
- │ ── AccountType.java ├
- │ ── Account.java ├
- │ └── BankSimulaƟon.java
- └── README.txt (İsteğe Bağlı)
+── project
+    ├── src
+    │   ├── Customer.java
+    │   ├── AccountType.java
+    │   ├── Account.java
+    │   └── BankSimulation.java
+    └── README.txt
+```
+
 **Görevler**
 1. Proje yapısını oluşturun ve verilen sınıfları ilgili dosyalara yerleşƟrin.
 2. "Customer" sınıķna geƩer ve seƩer metodları ekleyin.
